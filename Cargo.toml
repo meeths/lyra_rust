@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "lyra_rust",
+    "lyra_rust_sandbox"
+]
